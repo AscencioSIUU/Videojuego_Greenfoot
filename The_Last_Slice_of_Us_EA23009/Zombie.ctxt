@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Zombie
+comment1.params=
+comment1.target=Zombie()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=size
+comment3.target=void\ setState(int)
+comment4.params=
+comment4.target=int\ getHealth()
+comment5.params=health
+comment5.target=void\ setHeath(int)
+comment6.params=
+comment6.target=int\ getDamage()
+comment7.params=damage
+comment7.target=void\ setDamage(int)
+comment8.params=
+comment8.target=void\ worldWrapper()
+comment9.params=
+comment9.target=void\ ckeckContact()
+numComments=10
