@@ -28,12 +28,7 @@ public class TitleScreen extends World
 
         Exit exit = new Exit();
         addObject(exit,135,295);
-        exit.setLocation(134,464);
-
-        Options options = new Options();
-        addObject(options,114,214);
-        options.setLocation(170,396);
-        
+        exit.setLocation(134,464);        
     }
     
     public void started()
